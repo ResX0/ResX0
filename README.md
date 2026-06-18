@@ -142,7 +142,7 @@ const ResX0 = {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 
-**Crafted with** ♥ **& clean code by `</ResX0>`**
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ResX0&color=3B82F6&style=flat-square&label=Profile+Views)
 
