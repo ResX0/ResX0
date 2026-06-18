@@ -44,13 +44,4 @@ Driven by a passion for digital defense, I'm a Cyber Security Researcher based i
 
 
 
-📫 Connect with me:
-- Email: [4stalkers@protonmail.com](mailto:4stalkers@protonmail.com)
-- YouTube: [Tunisian-UL](https://www.youtube.com/@Tunisian-UL)
-- Buy Me a Coffee: [Buy Me a Coffee](https://buymeacoffee.com/maxamin)
-- Ba9chich : [ba9chich.com/UL-Tunisia](https://ba9chich.com/UL-Tunisia)
-- FB: [FB.com/TNCSOM](https://www.facebook.com/TNCSOM/)
 
--Linkedin :
-
-[linkedin.com/kasmi-mohamed-amine](https://linkedin.com/in/kasmi-mohamed-amine)
