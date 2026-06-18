@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=%3C/%3E%20ResPect&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20%7C%20Flutter%20%7C%20Mobile%20%26%20Web%20Developer&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=%3C/%3E%20ResX0&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20%7C%20Flutter%20%7C%20Mobile%20%26%20Web%20Developer&descAlignY=58&descSize=18" />
 
 </div>
 
@@ -15,7 +15,7 @@
 ## 👨‍💻 About Me
 
 ```javascript
-const ResPect = {
+const ResX0 = {
   location    : "Algeria 🇩🇿",
   role        : "Full-Stack & Flutter Developer",
   focus       : ["Mobile Apps", "Desktop Software", "Web Development"],
@@ -32,7 +32,7 @@ const ResPect = {
 - 🌱 Currently mastering **Flutter Advanced & Cloud Architecture**
 - 💼 Available for **freelance projects worldwide**
 - ⚡ Specialized in **Android APK, Windows EXE, Flutter & Web**
-- 📫 Reach me at **ResPect@gmail.com**
+- 📫 Reach me at **ResX0@gmail.com**
 
 <br clear="right"/>
 
@@ -88,10 +88,10 @@ const ResPect = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ResPect&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=3B82F6&icon_color=8B5CF6&text_color=CBD5E1" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ResPect&theme=tokyonight&hide_border=true&background=050816&ring=3B82F6&fire=8B5CF6&currStreakLabel=3B82F6" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ResX0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=3B82F6&icon_color=8B5CF6&text_color=CBD5E1" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ResX0&theme=tokyonight&hide_border=true&background=050816&ring=3B82F6&fire=8B5CF6&currStreakLabel=3B82F6" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ResPect&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816&title_color=3B82F6&text_color=CBD5E1" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ResX0&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816&title_color=3B82F6&text_color=CBD5E1" />
 
 </div>
 
@@ -118,7 +118,7 @@ const ResPect = {
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ResPect&bg_color=050816&color=3B82F6&line=8B5CF6&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ResX0&bg_color=050816&color=3B82F6&line=8B5CF6&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -128,11 +128,11 @@ const ResPect = {
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ResPect)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ResX0)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/islame_hideb)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ResPect@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ResPect)
-[![Portfolio](https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/ResPect)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ResX0@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ResX0)
+[![Portfolio](https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/ResX0)
 
 </div>
 
@@ -142,8 +142,8 @@ const ResPect = {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 
-**Crafted with** ♥ **& clean code by `</ResPect>`**
+**Crafted with** ♥ **& clean code by `</ResX0>`**
 
-![Profile Views](https://komarev.com/ghpvc/?username=ResPect&color=3B82F6&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=ResX0&color=3B82F6&style=flat-square&label=Profile+Views)
 
 </div>
