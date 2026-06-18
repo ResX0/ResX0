@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=%3C/%3E%20ResX0&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20%7C%20Flutter%20%7C%20Mobile%20%26%20Web%20Developer&descAlignY=58&descSize=18" />
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:8B5CF6&height=200&section=header&text=%3C%2F%3E%20ResX0&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%7C%20Flutter%20%7C%20Mobile%20%26%20Web%20Developer&descAlignY=58&descSize=18)
 
 </div>
 
@@ -140,9 +140,9 @@ const ResX0 = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:3B82F6&height=100&section=footer)
 
-
+**Crafted with** ♥ **& clean code by `</ResX0>`**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ResX0&color=3B82F6&style=flat-square&label=Profile+Views)
 
