@@ -1,16 +1,13 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:8B5CF6&height=200&section=header&text=%3C%2F%3E%20ResX0&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%7C%20Flutter%20%7C%20Mobile%20%26%20Web%20Developer&descAlignY=58&descSize=18)
+# `</> ResX0`
+### Full-Stack | Flutter | Mobile & Web Developer 🇩🇿
 
-</div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Building+Powerful+Android+Apps+%F0%9F%93%B1;Crafting+Desktop+Software+(EXE)+%F0%9F%96%A5%EF%B8%8F;Developing+Flutter+Cross-Platform+Apps+%F0%9F%92%99;Creating+Modern+Websites+%F0%9F%8C%90;Firebase+%7C+React+%7C+Node.js+Developer+%E2%9A%A1)](https://git.io/typing-svg)
-
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Building+Powerful+Android+Apps+📱;Crafting+Desktop+Software+(EXE)+🖥️;Developing+Flutter+Cross-Platform+Apps+💙;Creating+Modern+Websites+🌐;Firebase+%7C+React+%7C+Node.js+Developer+⚡)](https://git.io/typing-svg)
 
 ---
+
+</div>
 
 ## 👨‍💻 About Me
 
@@ -140,9 +137,7 @@ const ResX0 = {
 
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:3B82F6&height=100&section=footer)
-
-**Crafted with** ♥ **& clean code by `</ResX0>`**
+**Crafted with ♥ & clean code by `</ResX0>`**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ResX0&color=3B82F6&style=flat-square&label=Profile+Views)
 
