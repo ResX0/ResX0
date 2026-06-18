@@ -1,7 +1,6 @@
 <div align="center">
 
 # `</> ResX0`
-### Full-Stack | Flutter | Mobile & Web Developer 🇩🇿
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Building+Powerful+Android+Apps+📱;Crafting+Desktop+Software+(EXE)+🖥️;Developing+Flutter+Cross-Platform+Apps+💙;Creating+Modern+Websites+🌐;Firebase+%7C+React+%7C+Node.js+Developer+⚡)](https://git.io/typing-svg)
 
