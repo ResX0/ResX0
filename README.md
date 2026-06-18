@@ -26,7 +26,7 @@ const ResPect = {
 };
 ```
 
-<img align="right" width="38%" src="https://github-readme-stats.vercel.app/api?username=ResPect&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=3B82F6&icon_color=8B5CF6&text_color=CBD5E1" />
+<img align="right" width="38%" src="https://github-readme-stats.vercel.app/api?username=ResX0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=3B82F6&icon_color=8B5CF6&text_color=CBD5E1" />
 
 - 🔭 Working on **cross-platform apps & automation platforms**
 - 🌱 Currently mastering **Flutter Advanced & Cloud Architecture**
